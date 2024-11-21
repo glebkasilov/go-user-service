@@ -1,0 +1,12 @@
+env_type: local
+
+server: 
+  port: 8080
+
+storage:
+  host: localhost
+  port: 5432
+  user: root
+  pass: password
+  db_name: orders_test
+  
